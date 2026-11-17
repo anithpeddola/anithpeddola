@@ -51,6 +51,7 @@
 ## Certifications
 
 - **Cisco Certified Network Associate (CCNA)** — Cisco (Exam 200-301)
+- **OSHA 30-Hour** — 360training
 
 ## Education
 
