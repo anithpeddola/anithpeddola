@@ -48,6 +48,10 @@
 - **Structured cabling builds** — fiber and copper runs, patch panel termination, labeling, and documentation for traceable fault isolation
 - **Cabinet build-outs** — full cabinet builds to layout plans, from equipment receiving through cabling and handover (Wipro)
 
+## Certifications
+
+- **Cisco Certified Network Associate (CCNA)** — Cisco (Exam 200-301)
+
 ## Education
 
 - **Master of Science in Computer Science** — Lindsey Wilson University, USA
